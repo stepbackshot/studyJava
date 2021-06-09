@@ -12,6 +12,7 @@
         <module>javaWeb</module>
         <module>SpringAOP</module>
         <module>collection</module>
+        <module>Executor</module>
     </modules>
 
     <name>studyJava</name>
